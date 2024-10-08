@@ -1,6 +1,12 @@
 ### Welcome to my profile!
 You can just read my description , really what should i write here?
 
+Warning: **I no longer publically post repositories here**
+
+# As of 2024...
+All my projects are now located in my personal website and it's [Mercurial](https://takina.jp.net/@projects/) remote system (I wrote it!)
+This account is now only used for freelancer related work.
+
 ## My Current Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miyukinozomi)](https://github.com/anuraghazra/github-readme-stats)
 
