@@ -4,8 +4,9 @@ You can just read my description , really what should i write here?
 Warning: **I no longer publically post repositories here**
 
 # As of 2024...
-All my projects are now located in my personal website and it's [Mercurial](https://takina.jp.net/@projects/) remote system (I wrote it!)
+All my projects are now located in my personal website and it's [Mercurial](https://www.mercurial-scm.org/) remote system (I wrote it!)
 This account is now only used for freelancer related work.
+Click [here](https://takina.jp.net/@projects/) to see my new projects.
 
 ## My Current Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miyukinozomi)](https://github.com/anuraghazra/github-readme-stats)
