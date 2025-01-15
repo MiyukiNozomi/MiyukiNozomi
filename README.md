@@ -1,12 +1,12 @@
 ### Welcome to my profile!
-You can just read my description , really what should i write here?
+I write compilers, scripting languages, games, websites and whatever I find cool!
 
-Warning: **I no longer publically post repositories here**
+Warning: **I no longer publically post personal repositories here**
 
-# As of 2024...
-All my projects are now located in my personal website and it's [Mercurial](https://www.mercurial-scm.org/) remote system (I wrote it!)
-This account is now only used for freelancer related work.
-Click [here](https://takina.jp.net/@projects/) to see my new projects.
+# As of 2024/2025...
+All my personal projects are now located in my personal website (still using git, and I wrote the git backend!)
+This account is now only used for freelancer and other corporate related work.
+Click [here](https://takina.jp.net/) to see my new projects.
 
 ## My Current Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miyukinozomi)](https://github.com/anuraghazra/github-readme-stats)
