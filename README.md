@@ -1,7 +1,7 @@
 ### Welcome to my profile!
 I write compilers, scripting languages, games, websites and whatever I find cool!
 
-Warning: **I no longer publically post personal repositories here**
+Warning: **I no longer post personal repositories here**
 
 # As of 2024/2025...
 All my personal projects are now located in my personal website (still using git, and I wrote the git backend!)
