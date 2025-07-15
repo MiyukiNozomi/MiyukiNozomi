@@ -1,12 +1,10 @@
 ### Welcome to my profile!
 I write compilers, scripting languages, games, websites and whatever I find cool!
 
-Warning: **I no longer post personal repositories here**
-
 # As of 2024/2025...
 All my personal projects are now located in my personal website (still using git, and I wrote the git backend!)
 This account is now only used for freelancer and other corporate related work.
-Click [here](https://takina.jp.net/) to see my new projects.
+Click [here](https://ane.jp.net/) to see my new projects.
 
 ## My Current Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miyukinozomi)](https://github.com/anuraghazra/github-readme-stats)
