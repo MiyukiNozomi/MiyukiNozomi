@@ -6,8 +6,8 @@ Well.. mostly backups of my projects in my [website](https://ane.jp.net)'s [Git 
 
 ## Your support keeps me going!
 Like anything I've written? if you wish to support me in the future.. I accept Bitcoin donations as 
-Lightning Bitcoin address: suisei@lnmarkets.com
-On-chain bitcoin address: bc1q6e4cdmwqxpvjtrxlpkndypsgd0rs5rfdkn9q5t
+- Lightning Bitcoin address: suisei@lnmarkets.com
+- On-chain bitcoin address: bc1q6e4cdmwqxpvjtrxlpkndypsgd0rs5rfdkn9q5t
 
 ## My Current Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miyukinozomi)](https://github.com/anuraghazra/github-readme-stats)
