@@ -1,7 +1,7 @@
-### Welcome to my profile!
+# Welcome to my profile!
 I write compilers, scripting languages, games, websites and whatever I find cool!
 
-# What will I find here?
+## What will I find here?
 Well.. mostly backups of my projects in my [website](https://ane.jp.net)'s [Git microservice](https://git.ane.jp.net)
 
 ## Things I'm actively working on
